@@ -1,0 +1,18 @@
+Patch Notes Beta Version 0.58
+
+- Live Window
+
+	• Will now display players wins
+	• Check winning teams now NOT LOSING TEAMS
+	• Added a save checkboxes button that will save the currently checked boxes for next time
+	• Added a reset checkboxes button if you want to reset them all back to being unchecked
+	• Saved checkboxes will automatically load when you open the live window again
+
+- Set up Season
+
+	• Added autocomplete feature
+	• Added spell check feature
+
+- Excel Sheets
+
+	• Create Packet button works now

@@ -1,0 +1,23 @@
+Patch Notes Beta Version 0.33
+
+- Accounting
+
+	• Added a rollover pot to the accounting database.
+
+- Add / Edit Players
+
+	• Edit player will now save the players notes.
+
+- Players
+
+	• Added a notes field to the players database.
+
+- Live Window
+
+	• Will now keep track of the pot if there is a rollover.
+	• Will automatically calculate the pot each week including any rollovers.
+	• Rounding of interest and player possible winnings now correct
+
+- Transactions
+
+	• Added a notes field to the transactions database.

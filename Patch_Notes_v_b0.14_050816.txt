@@ -1,0 +1,15 @@
+Patch Notes Beta Version 0.14b
+
+- Set Up Season	
+
+- Add / Edit Players
+
+	• Added check box to mark a player in a group as the leader
+	
+- Groups
+	
+	• Groups button added to accounting.
+	• Added a group window.
+	• View groups and players in groups.
+	• You can now pay out winnings to an entire group 
+	(all members of group with winnings will be paid out in program. You will see total to pay/how to pay the leader.)

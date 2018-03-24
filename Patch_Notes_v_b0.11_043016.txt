@@ -1,0 +1,20 @@
+Patch Notes Beta Version 0.11b
+
+- Set Up Season
+
+	
+
+- Add / Edit Players
+	
+	• Buy in amount no longer affects accounting. Only keeps track of the original buy in amount.
+	• Edit player will no longer clear the form after applying.
+	• Changed notes to group name.
+	• Group name now working correctly
+
+- Accounting
+	
+	• Added generic credit payment method
+	• Added charges to accounting
+	• Charge all by buy in amount button added
+	• Reset Accounting button added. Resets all the player accounting info.
+	• Fixed the null reference error you found.

@@ -1,0 +1,87 @@
+alpha 2.8 - Added edit and delete player. Both functioning correctly
+alpha 2.9 - Working on search function in Add/Edit Players
+alpha 3.0 - Search box is working perfectly
+alpha 3.1 - Add / Edit players complete
+alpha 3.2 - fixed add/edit players no selection message boxes
+alpha 3.3 - just updated notes explianing wtf i did in case i forget
+alpha 3.4 - got single player personal info button working - FormPlayers - search box working too
+alpha 3.5 - messing with database for weekly picks - 3.4 is safe
+alpha 3.6 - basic Picks database set up. Go back here if screw it up or need to add more
+alpha 3.7 - added long ass code for the select picks method in enter picks form
+alpha 3.8 - trying to populate the picks database
+alpha 3.9 - remaking database adding picks columns - picks database didnt work
+alpha 4.0 - back to single database. Working on enter picks. Working so far
+alpha 4.1 - still doing picks kinda got checkboxes -> textboxes working
+alpha 4.2 - Need to rethink the picks page. Checkboxes useless. Working on getting the set up season going - its a huge mess might need to start this part over
+alpha 4.3 - got New Season button working. Need to go through and change all of the ShowDiag() code. foreach (form form in Application.OpenForms)
+alpha 4.4 - Form_FormClosing event figured out. Code is in the players and add/edit players. Searching for more areas where it matters.
+alpha 4.5 - new season and save season added. Need to populate form by week/season.
+alpha 4.6 - just need to do Load Season now :P
+alpha 4.7 - finally hit the parameter problem. Season DB too big. Going to try reduce max string lengths.
+alpha 4.8 - might be okay limited the characters to 30 for now. Just need to add Delete Season and its set.
+alpha 4.9 - set up season done and working so far
+alpha 5.0 - working on enter picks again. still trying checkboxes.
+alpha 5.1 - fucking checkboxes. just write the long ass IF statement already.
+alpha 5.2 - methods build just need to write the IF code.
+alpha 5.3 - check boxes and text boxes all appear to be working. Need season database now.
+alpha 5.4 - got season on main page and on picks page. Need to write data to it now.
+alpha 5.5 - Shit going to have to save the team names in multiple databases per week. FUCK
+alpha 5.6 - Splitting seasons DB
+alpha 5.7 - I believe seasons DB split successful
+alpha 5.8 - keep checking for broken stuff from DB split
+alpha 5.9 - drunken code careful there
+alpha 6.0 - got seasons working with enter picks
+alpha 6.1 - time to save the players picks
+alpha 6.2 - got enter picks working need to finish code for all weeks.
+alpha 6.3 - another database limit
+alpha 6.4 - fixed database limit issue.
+alpha 6.5 - need to load player picks into enter picks if they already have picks that week and clear the boxes if not
+alpha 6.6 - working on loading the players picks in the enter picks form. 
+alpha 6.7 - loading players working need to change textboxes based on picks now
+alpha 6.8 - Live window time!
+alpha 6.9 - started live window. Gonna mess with player DB need an isOut for each week
+alpha 7.0 - redesigning live window
+alpha 7.1 - messing with season DB need to add Week01Final bool
+alpha 7.2 - added week01 final working ok. need to remove final if not final that week
+alpha 7.3 - more work on live window added all weeks to code
+alpha 7.4 - did some testing with published version. Live needs more work
+alpha 7.5 - added the MaxPicks to seasons1_5
+alpha 7.6 - fixed bugs after adding max picks. Trying to add master sheet editor.
+alpha 7.7 - Master DB Editor doing work looking good. Need to check for error potential. There is ALOT.
+alpha 7.8 - time to start on the accounting UGH <:'(
+alpha 7.9 - starting accounting database -> adding Notes to player database
+alpha 8.0 - accounting database set up. time to code it.
+alpha 8.1 - made player buy in auto create debt. Do more accounting code < FUN
+alpha 8.2 - wrote some drunk code. Seems ok though not much. Just error messages for accounting. :P
+alpha 8.3 - added master accounting window, added player owes and total owed to us when creating player. made it so season has to exist before can add players. added code to submit accounting button 
+alpha 8.4 - more accounting codes
+alpha 8.5 - added to the master accounting. ledgers working cept interest. Need to add in live window owe out based on pot / number of winners
+alpha 8.6 - live window working well with accounting. Need to squash more accounting bugs > also Infinity :P
+alpha 8.7 - think it is mostly done. Work on Main Menu now. < Then beta
+alpha 8.8 - got the top five working. Need to find other things to finish before beta
+alpha 8.9 - about window done. Working on saving and loading database.
+alpha 9.0 - still trying save database
+alpha 9.1 - doing some design make it look nice
+alpha 9.2 - designing done really just need to do some fonts here n there
+alpha 9.3 - designing done. Need bug report window
+alpha 9.4 - bug report done. Need save database, load database and then excel files
+alpha 9.5 - trying SQL stuff to backup and restore datase https://www.youtube.com/watch?v=5E0q5cZjblk
+alpha 9.6 - added the numbered picks for excel Master Spreadsheet
+alpha 9.7 - got excel master sheet done - need standings sheet now
+alpha 9.8 - export excel all done sorting included. Back to save/load database https://www.youtube.com/watch?v=5E0q5cZjblk
+alpha 9.9 - holy shit i made a database backup!!!!!!
+alpha 9.91 - got both "working" no errors but it doesnt do anything
+alpha 9.92 - more DB crap
+alpha 9.93 - got it working!! Then crashed the program. Need to fix the cancel button.
+alpha 9.94 - think I fixed the bug that was breaking the database. Saving/Loading should work now
+beta 0.01 - BETA all done. Need to figure out installer.
+beta 0.02 - installer working. just cleaning stuff up
+beta 0.03 - fixed some issues with live window and added cursor wait timers
+beta 0.04 - working on live window bugs - players that dont have enough picks automatically out now
+beta 0.05 - more live window - players that dont have 8 picks get wins because the "" pick doesnt match the checkbox loser 
+beta 0.06 - totally rewriting the live window submitlosers code
+beta 0.07 - rewrote live window submit losers code. should be all good now
+beta 0.08 - live window should be done now...again...
+beta 0.09 - made all text box fonts bigger
+beta 0.10 - made changes for mom see patch notes 09/27/15
+beta 0.11 - see patch notes 04/30/16

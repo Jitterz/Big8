@@ -1,0 +1,14 @@
+Patch Notes Beta Version 0.11b
+
+- Set Up Season
+
+	
+
+- Add / Edit Players
+	
+	• Added a group window. View groups and players in groups.
+	• 
+
+- Accounting
+	
+	

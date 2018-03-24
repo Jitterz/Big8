@@ -1,0 +1,33 @@
+Patch Notes Beta Version 0.59
+
+- Add / Edit Players
+
+	• Can now charge new players buy in from this window
+	• Can receive payment for new players as well
+	• Receiving payment this was will remove the $3 interest
+	• Made notes section bigger
+
+- Set up Season
+
+	• Added button to make all players inactive
+	• Creating a new season will now ask if you want to reset players and make them inactive
+
+- Accounting
+
+	• All totals now completely calculated based on transactions.
+	• Numbers can go negative now
+	• Receiving initial or using Charge/Receive payment will make players active
+	• Only active players will show up in accounting windows
+	• Added charge receive method. It will charge player the charge amount and receive payment for the receive amount
+	• Charge/Receive removes the $3 to go into interest
+
+- Player Ledgers
+
+	• Added proper totalling showing players balance
+	• Player ledgers not tied to the season so you can see the history
+
+// TODO:
+
+	Add progressive pot transactions and track progressive through transaction
+	Add proressive total to accounting main totals
+	

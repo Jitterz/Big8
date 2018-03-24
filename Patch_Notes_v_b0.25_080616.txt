@@ -1,0 +1,14 @@
+Patch Notes Beta Version 0.20b && 0.21b
+
+- Main Window
+	
+	• Added temp button to main window to set all players to innactive.
+	• Added a season drop down box for now
+	• Cannot progress to any other windows until a season is selected for now.
+
+- Accounting
+
+	• When doing a charge you can now select Buy In Charge as the method.
+	• Master accounting updated so you can now edit the new fields in the database.	
+	• Totals added under who owes and who we owe windows.
+	• When you receive a payment from a player it will make them active if they are not currently active.

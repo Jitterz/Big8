@@ -1,0 +1,13 @@
+Patch Notes Beta Version 0.60
+
+- Accounting
+
+	• Fixed Pay All button
+	
+- House Ledger
+
+	• House ledger should sort by date now
+	
+- Live Window
+
+	• Weeks made final should load the correct check boxes now

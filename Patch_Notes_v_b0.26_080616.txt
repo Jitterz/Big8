@@ -1,0 +1,17 @@
+Patch Notes Beta Version 0.26
+
+- Main Window
+	
+	• Current season and week will now be saved after program is closed.
+
+- Accounting
+
+	• After saving a transaction it will default to the player search box.
+
+- Add / Edit Players
+
+	• After editing or deleting a player it will now default to the player search box.
+
+- Players
+
+	• The players detail window will now only list Active players.

@@ -1,0 +1,17 @@
+Patch Notes Beta Version 0.20b && 0.21b
+
+- General Changes
+	
+	• Minimized windows will now pop up if button is clicked
+	• When searching players it will automatically select the matching player if they are the only one remaining in the list
+
+- Accounting
+
+	• Added View Ledger button to accounting window. 
+
+- Enter Picks
+
+	• No longer applies the last persons picks to everyone else
+	• Enter now acts like tab
+	• Enter will submit picks once on the submit picks button then return to the search box	
+	• Hopefully saving the picks is a lot faster now.	

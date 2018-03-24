@@ -1,0 +1,14 @@
+Updat Notes Beta Version 0.66
+
+- House Ledger
+
+	• Can now export to excel
+
+- Transaction Details
+
+	• Will now save changes to transaction interest amount
+
+- Master Accounting
+
+	• Transactions by type window should display the proper transactions now
+	

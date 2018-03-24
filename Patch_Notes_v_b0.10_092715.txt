@@ -1,0 +1,22 @@
+Patch Notes Beta Version 0.10b
+
+- Set Up Season
+
+	• Enter will now go down the column
+	• Tab goes to the top right most box
+
+- Add / Edit Players
+	
+	• After adding a new player cursor will default to Pool Name box
+	• Columns switched so after Pool Name will come Personal Info
+	• Tab to numbers will now highlight the numbers for quick entry
+	• Enter will now go down the columns like tab
+	• After adding a new player the notes textbox will clear its contents now
+	• Groups text box added but disabled until next season. Need to change database for that
+	• Delete Player now asks for confirmation. No more drunken deletes.
+
+- Accounting
+	
+	• Made the form less confusing at 1am
+	• Selecting the amount box will now highlight the text inside quicker entry
+	• Search box works now

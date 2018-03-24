@@ -1,0 +1,10 @@
+Updat Notes Beta Version 0.68
+
+- Live Window
+
+	• Checkboxes should save now
+
+- Standings
+
+	• Standings export should leave out inactive players
+	
